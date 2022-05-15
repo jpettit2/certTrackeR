@@ -24,7 +24,6 @@ shinyUI(fluidPage(
          textInput(inputId = "email",label = "Email",placeholder = "Type email address here"),
          selectizeInput(inputId = "course_names",choices = c("HAZMAT", "PEDS", "MI", "Bedside Manner"),label = "Select Course"),
          actionButton(inputId = "submit",label = "Submit Record")
-         
         ),
 
         # Show a plot of the generated distribution

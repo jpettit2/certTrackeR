@@ -1,0 +1,13 @@
+name: certifieR
+title: certifieR
+username:
+account: jp-sandbox
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6303693
+bundleId: 5907222
+url: https://jp-sandbox.shinyapps.io/certifieR/
+when: 1652583014.98526
+lastSyncTime: 1652583014.98526
+asMultiple: FALSE
+asStatic: FALSE
